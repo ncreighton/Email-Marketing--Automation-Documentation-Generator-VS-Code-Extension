@@ -1,2 +1,45 @@
-# Email-Marketing--Automation-Documentation-Generator-VS-Code-Extension
-Auto-generate API docs, README files, and inline comments from Email Marketing &amp; Automation code patterns. Saves 2-3 hours per week on documentation.
+# Email Marketing & Automation Documentation Generator VS Code Extension
+
+> Vscode Extension for Email Marketing
+
+You shouldn't need alt-tabbing out of your code 40 times a day to stay in flow state and ship faster.
+
+Status bar integration gives you real-time feedback without opening panels. Compatible with Remote SSH, WSL, Dev Containers, and GitHub Codespaces.
+
+## What's Included
+
+- Email Marketing & Automation Documentation Generator — fully configured...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQcN5fXx3o86xygUccZI2U)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
